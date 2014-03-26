@@ -9,8 +9,17 @@
 #import <UIKit/UIKit.h>
 
 
+@interface ALNewClass : NSObject
+
+@end
+
+
 #pragma mark ALViewController
 
 @interface ALViewController : UIViewController
+
+- (void)newMethod1;
+
+- (void)newMethod2;
 
 @end
