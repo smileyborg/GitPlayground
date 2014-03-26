@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+
+#pragma mark ALViewController
+
 @interface ALViewController : UIViewController
 
 @end
