@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import "ALAppDelegate.h"
+#import test
 
 int main(int argc, char *argv[])
 {
