@@ -7,7 +7,6 @@
 //  https://github.com/smileyborg/UIView-AutoLayout
 //
 
-#import <UIKit/UIKit.h>
 
 @class ALViewController;
 
