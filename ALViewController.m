@@ -6,8 +6,6 @@
 //  https://github.com/smileyborg/UIView-AutoLayout
 //
 
-#import "ALViewController.h"
-
 typedef NS_ENUM(NSInteger, ExampleConstraintDemo) {
     ExampleConstraintDemoReset = 0,
     ExampleConstraintDemo1,
