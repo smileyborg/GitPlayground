@@ -1,4 +1,3 @@
-Hello.
 //
 //  main.m
 //  Example
