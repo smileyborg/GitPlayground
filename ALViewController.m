@@ -12,9 +12,6 @@ typedef NS_ENUM(NSInteger, ExampleConstraintDemo) {
     ExampleConstraintDemo2,
     ExampleConstraintDemo3,
     ExampleConstraintDemo4,
-    ExampleConstraintDemo5,
-    ExampleConstraintDemo6,
-    ExampleConstraintDemo7,
     ExampleConstraintDemoCount
 };
 
